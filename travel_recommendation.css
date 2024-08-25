@@ -61,8 +61,12 @@ body {
     color: #fff;
     border-radius: 5px;
     cursor: pointer;
+    margin-right: 10px; 
 }
 
+.search-bar button:last-of-type {
+    margin-right: 0; 
+}
 /* Hero Section */
 .hero-section {
     height: 400px;
